@@ -17,7 +17,7 @@
   accent-color: "#26428b",
   font: "New Computer Modern",
   font-size: 8.5pt,
-  paper: "us-letter",
+  paper: "a4",
   author-position: center,
   personal-info-position: center,
 )
@@ -31,13 +31,24 @@
 #work(
   title: "Product Engineer",
   location: "Argentina",
-  company: "INI - Fintech",
-  dates: dates-helper(start-date: "Abr 2025", end-date: "Presente"),
+  company: "Flash - Mercado Libre",
+  dates: dates-helper(start-date: "Jul 2026", end-date: "Presente"),
 )
 
-- Desarrollo features end-to-end en React, React Native y Next.js, desde spikes y prototipos rápidos hasta el polish y bug fixing en producción.
-- Mantengo el design system y componentes compartidos, hago code review continuo y tomo decisiones técnicas (estructura, librerías, patrones) que impactan a todo el equipo.
-- Nexo entre producto y desarrollo para cuentas enterprise (Coca-Cola, Arcor, Shell, Flybondi): traduzco necesidades de negocio en soluciones técnicas escalables, lidero demos para cerrar nuevas integraciones e impulso mejoras priorizadas a partir del feedback de clientes y del equipo interno (Slack, PostHog).
+- Desarrollo Flash, una plataforma que reúne cinco servicios para la compra de autos usados: financiación, seguros, pago seguro con fondos en custodia (escrow), inspección de 150 puntos y garantía extendida.
+- Construyo las integraciones con proveedores externos (bancos, brokers y aseguradoras) que dan soporte a cada flujo de servicio.
+- Armé la arquitectura en un monorepo con Turborepo, con backend en Node.js y frontend en Next.js compartiendo código y tooling.
+
+#work(
+  title: "Product Engineer",
+  location: "Argentina",
+  company: "INI - Fintech",
+  dates: dates-helper(start-date: "Abr 2025", end-date: "Jul 2026"),
+)
+
+- Desarrollé features end-to-end en React, React Native y Next.js, desde spikes y prototipos rápidos hasta el polish y bug fixing en producción.
+- Mantuve el design system y componentes compartidos, hice code review continuo y tomé decisiones técnicas (estructura, librerías, patrones) que impactaron a todo el equipo.
+- Nexo entre producto y desarrollo para cuentas enterprise (Coca-Cola, Arcor, Shell, Flybondi): traduje necesidades de negocio en soluciones técnicas escalables, lideré demos para cerrar nuevas integraciones e impulsé mejoras priorizadas a partir del feedback de clientes y del equipo interno (Slack, PostHog).
 
 #work(
   title: "Frontend Software Engineer",
@@ -47,7 +58,6 @@
 )
 
 - Parte principal de un equipo de 3 desarrollando soluciones white-label para +10 clientes corporativos fintech con React, React Native, Next.js, TypeScript, Kotlin, Zustand, GitLab CI, Sentry y PostHog.
-- Diseñé e implementé el sistema de cobros sobre POS para Flybondi: 25-30k transacciones mensuales, 99.9% uptime y +25-30% de facturación mediante optimización de UX y arquitectura resiliente para conectividad limitada.
 
 #work(
   title: "Scrum Master / Tech Lead",
@@ -144,9 +154,7 @@ Herramienta web para generar paletas de colores para diseñadores y desarrollado
 
 - *Lenguajes*: JavaScript, TypeScript, Kotlin, Python
 - *Frontend*: React, React Native, Next.js, Astro, TailwindCSS, Zustand
-- *Backend*: Node.js, Express, PostgreSQL, MongoDB, Supabase
-- *Data y Automatización*: Pandas, schedule, cron
+- *Backend y Data*: Node.js, Express, PostgreSQL, MongoDB, Supabase, Pandas, schedule, cron
 - *DevOps y Calidad*: GitLab CI, Git, GitHub, Sentry
-- *Producto y Analítica*: Figma, Jira, Trello, Looker Studio, Power BI, PostHog
-- *Metodologías*: Scrum, Kanban
+- *Producto y Metodologías*: Figma, Jira, Trello, Looker Studio, Power BI, PostHog, Scrum, Kanban
 - *Idiomas*: Español (Nativo), Inglés (B1/B2)
