@@ -32,12 +32,12 @@
   title: "Product Engineer",
   location: "Argentina",
   company: "Flash - Mercado Libre",
-  dates: dates-helper(start-date: "Jul 2026", end-date: "Presente"),
+  dates: dates-helper(start-date: "Jul 2026", end-date: "Sep 2026"),
 )
 
-- Desarrollo Flash, una plataforma que reúne cinco servicios para la compra de autos usados: financiación, seguros, pago seguro con fondos en custodia (escrow), inspección de 150 puntos y garantía extendida.
-- Construyo las integraciones con proveedores externos (bancos, brokers y aseguradoras) que dan soporte a cada flujo de servicio.
-- Armé la arquitectura en un monorepo con Turborepo, con backend en Node.js y frontend en Next.js compartiendo código y tooling.
+- Construí Flash, plataforma de Mercado Libre que reúne cinco servicios para la compra de autos usados: financiación, seguros, pago seguro con fondos en custodia (escrow), inspección de 150 puntos y garantía extendida.
+- Desarrollé las integraciones con proveedores externos (bancos, brokers y aseguradoras) y los pagos con Mercado Pago, procesando cobros y cambios de estado mediante webhooks en AWS.
+- Armé la arquitectura en un monorepo con Turborepo: backend en Node.js con PostgreSQL sobre AWS y frontend en Next.js, compartiendo código y tooling.
 
 #work(
   title: "Product Engineer",
@@ -46,7 +46,7 @@
   dates: dates-helper(start-date: "Abr 2025", end-date: "Jul 2026"),
 )
 
-- Desarrollé features end-to-end en React, React Native y Next.js, desde spikes y prototipos rápidos hasta el polish y bug fixing en producción.
+- Desarrollé features end-to-end en React, React Native y Next.js, además de Kotlin para soluciones mobile, desde spikes y prototipos rápidos hasta el polish y bug fixing en producción.
 - Mantuve el design system y componentes compartidos, hice code review continuo y tomé decisiones técnicas (estructura, librerías, patrones) que impactaron a todo el equipo.
 - Nexo entre producto y desarrollo para cuentas enterprise (Coca-Cola, Arcor, Shell, Flybondi): traduje necesidades de negocio en soluciones técnicas escalables, lideré demos para cerrar nuevas integraciones e impulsé mejoras priorizadas a partir del feedback de clientes y del equipo interno (Slack, PostHog).
 
@@ -112,8 +112,8 @@ Coordiné talleres de emprendedurismo tecnológico para +100 emprendedores exter
 #edu(
   institution: "Universidad Nacional de La Plata",
   location: "La Plata, Argentina",
-  dates: dates-helper(start-date: "2019", end-date: "En curso"),
-  degree: "Licenciatura en Informática",
+  dates: dates-helper(start-date: "2019", end-date: "2024"),
+  degree: "Licenciatura en Sistemas",
 )
 
 Ingresante Destacado
@@ -121,8 +121,8 @@ Ingresante Destacado
 #edu(
   institution: "Henry Academy",
   location: "Argentina",
-  dates: dates-helper(start-date: "May 2022", end-date: "Sep 2022"),
-  degree: "Bootcamp Fullstack Web Developer (+800 horas)",
+  dates: dates-helper(start-date: "Abr 2022", end-date: "Ago 2022"),
+  degree: "Bootcamp Full Stack Web Developer (+800 horas)",
 )
 
 == Proyectos y Reconocimientos
@@ -155,6 +155,6 @@ Herramienta web para generar paletas de colores para diseñadores y desarrollado
 - *Lenguajes*: JavaScript, TypeScript, Kotlin, Python
 - *Frontend*: React, React Native, Next.js, Astro, TailwindCSS, Zustand
 - *Backend y Data*: Node.js, Express, PostgreSQL, MongoDB, Supabase, Pandas, schedule, cron
-- *DevOps y Calidad*: GitLab CI, Git, GitHub, Sentry
+- *DevOps y Calidad*: AWS, GitLab CI, Git, GitHub, Sentry
 - *Producto y Metodologías*: Figma, Jira, Trello, Looker Studio, Power BI, PostHog, Scrum, Kanban
-- *Idiomas*: Español (Nativo), Inglés (B1/B2)
+- *Idiomas*: Español (Nativo), Inglés (B2)

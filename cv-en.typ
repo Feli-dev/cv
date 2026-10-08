@@ -16,7 +16,7 @@
   personal-site: personal-site,
   accent-color: "#26428b",
   font: "New Computer Modern",
-  font-size: 8.5pt,
+  font-size: 8.4pt,
   paper: "a4",
   author-position: center,
   personal-info-position: center,
@@ -28,7 +28,7 @@
 
 == Profile
 
-Product / Design Engineer with 5+ years in fintech, turning enterprise customer feedback into prioritized product improvements and shipping polished interfaces in React, React Native and Next.js. Strong craft and clear communication with non-technical stakeholders.
+Product Engineer with 5+ years building web products end to end. I bridge business and engineering: I work with customers to understand the problem, design the solution and ship it to production with React, Next.js and Node.js.
 
 == Work Experience
 
@@ -36,12 +36,12 @@ Product / Design Engineer with 5+ years in fintech, turning enterprise customer 
   title: "Product Engineer",
   location: "Argentina",
   company: "Flash - Mercado Libre",
-  dates: dates-helper(start-date: "Jul 2026", end-date: "Present"),
+  dates: dates-helper(start-date: "Jul 2026", end-date: "Sep 2026"),
 )
 
-- Build Flash, a platform that brings together five services for buying used cars: financing, insurance, secure payments with funds held in escrow, 150-point inspection and extended warranty.
-- Build the integrations with external providers (banks, brokers and insurers) that power each service flow.
-- Set up the architecture as a Turborepo monorepo, with a Node.js backend and a Next.js frontend sharing code and tooling.
+- Built Flash, a Mercado Libre platform that brings together five services for buying used cars: financing, insurance, secure payments with funds held in escrow, 150-point inspection and extended warranty.
+- Built integrations with external providers (banks, brokers and insurers) and Mercado Pago payments, processing charges and status changes through webhooks on AWS.
+- Designed the architecture as a Turborepo monorepo: Node.js backend with PostgreSQL on AWS and a Next.js frontend, sharing code and tooling.
 
 #work(
   title: "Product Engineer",
@@ -50,7 +50,7 @@ Product / Design Engineer with 5+ years in fintech, turning enterprise customer 
   dates: dates-helper(start-date: "Apr 2025", end-date: "Jul 2026"),
 )
 
-- Shipped features end-to-end in React, React Native and Next.js, from quick spikes and prototypes to production polish and bug fixing.
+- Shipped features end-to-end in React, React Native and Next.js, plus Kotlin for mobile solutions, from quick spikes and prototypes to production polish and bug fixing.
 - Owned the design system and shared components, ran continuous code review and took technical decisions (architecture, libraries, patterns) that impacted the whole team.
 - Bridged product and engineering for enterprise accounts (Coca-Cola, Arcor, Shell, Flybondi): translated business needs into scalable solutions, led demos to close new integrations and drove prioritized product improvements from customer and team feedback (Slack, PostHog).
 
@@ -115,8 +115,8 @@ Coordinated tech entrepreneurship workshops for 100+ external entrepreneurs and 
 #edu(
   institution: "Universidad Nacional de La Plata",
   location: "La Plata, Argentina",
-  dates: dates-helper(start-date: "2019", end-date: "In progress"),
-  degree: "Bachelor's Degree in Computer Science",
+  dates: dates-helper(start-date: "2019", end-date: "2024"),
+  degree: "Bachelor's Degree in Information Systems",
 )
 
 Distinguished Admission
@@ -124,7 +124,7 @@ Distinguished Admission
 #edu(
   institution: "Henry Academy",
   location: "Argentina",
-  dates: dates-helper(start-date: "May 2022", end-date: "Sep 2022"),
+  dates: dates-helper(start-date: "Apr 2022", end-date: "Aug 2022"),
   degree: "Full-Stack Web Developer Bootcamp (800+ hours)",
 )
 
@@ -158,6 +158,6 @@ Web tool to generate color palettes for designers and developers. Next.js + Type
 - *Languages*: JavaScript, TypeScript, Kotlin, Python
 - *Frontend*: React, React Native, Next.js, Astro, TailwindCSS, Zustand
 - *Backend & Data*: Node.js, Express, PostgreSQL, MongoDB, Supabase, Pandas, schedule, cron
-- *DevOps & Quality*: GitLab CI, Git, GitHub, Sentry
+- *DevOps & Quality*: AWS, GitLab CI, Git, GitHub, Sentry
 - *Product & Methodologies*: Figma, Jira, Trello, Looker Studio, Power BI, PostHog, Scrum, Kanban
-- *Spoken languages*: Spanish (Native), English (B1/B2)
+- *Spoken languages*: Spanish (Native), English (B2)
